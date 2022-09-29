@@ -1,0 +1,50 @@
+{
+    "asset": {
+        "raw_dir": "./data/raw/asset",
+        "processed_dir": "./data/processed/asset"
+    },
+    "fruit": {
+        "raw_dir": "./data/raw/fruit",
+        "processed_dir": "./data/processed/fruit"
+    },
+    "iterater_clarity": {
+        "raw_dir": "./data/raw/iterater",
+        "processed_dir": "./data/processed/iterater_clarity"
+    },
+    "iterater_coherence": {
+        "raw_dir": "./data/raw/iterater",
+        "processed_dir": "./data/processed/iterater_coherence"
+    },
+    "iterater_fluency": {
+        "raw_dir": "./data/raw/iterater",
+        "processed_dir": "./data/processed/iterater_fluency"
+    },
+    "iterater_style": {
+        "raw_dir": "./data/raw/iterater",
+        "processed_dir": "./data/processed/iterater_style"
+    },
+    "iterater": {
+        "raw_dir": "./data/raw/iterater",
+        "processed_dir": "./data/processed/iterater"
+    },
+    "jfleg": {
+        "raw_dir": "./data/raw/jfleg",
+        "processed_dir": "./data/processed/jfleg"
+    },
+    "turk": {
+        "raw_dir": "./data/raw/turk",
+        "processed_dir": "./data/processed/turk"
+    },
+    "stsb_multi_mt": {
+        "raw_dir": "./data/raw/stsb_multi_mt",
+        "processed_dir": "./data/processed/stsb_multi_mt"
+    },
+    "wafer_insert": {
+        "raw_dir": "./data/raw/wafer_insert",
+        "processed_dir": "./data/processed/wafer_insert"
+    },
+    "wnc": {
+        "raw_dir": "./data/raw/wnc",
+        "processed_dir": "./data/processed/wnc"
+    }
+}
