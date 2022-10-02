@@ -6,31 +6,20 @@
 
 # The Instruction-Based Benchmark for Text Improvements
 
-The EditEval benchmark is described in the following paper:
+The EditEval benchmark is described in the following paper: [https://arxiv.org/abs/2209.13331](https://arxiv.org/abs/2209.13331)
 
-<!-- ```bibtex
-@inproceedings{petroni-etal-2021-kilt,
-    title = "{KILT}: a Benchmark for Knowledge Intensive Language Tasks",
-    author = {Petroni, Fabio  and Piktus, Aleksandra  and
-      Fan, Angela  and Lewis, Patrick  and
-      Yazdani, Majid  and De Cao, Nicola  and
-      Thorne, James  and Jernite, Yacine  and
-      Karpukhin, Vladimir  and Maillard, Jean  and
-      Plachouras, Vassilis  and Rockt{\"a}schel, Tim  and
-      Riedel, Sebastian},
-    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association 
-                 for Computational Linguistics: Human Language Technologies",
-    month = jun,
-    year = "2021",
-    address = "Online",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2021.naacl-main.200",
-    doi = "10.18653/v1/2021.naacl-main.200",
-    pages = "2523--2544",
+```
+@inproceedings{dwivedi-edit-2022,
+  doi = {10.48550/ARXIV.2209.13331},
+  url = {https://arxiv.org/abs/2209.13331},
+  author = {Dwivedi-Yu, Jane and Schick, Timo and Jiang, Zhengbao and Lomeli, Maria and Lewis, Patrick and Izacard, Gautier and Grave, Edouard and Riedel, Sebastian and Petroni, Fabio},
+  keywords = {Computation and Language (cs.CL), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {EditEval: An Instruction-Based Benchmark for Text Improvements},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}
 }
 ```
-
-[https://arxiv.org/abs/2009.02252](https://arxiv.org/abs/2009.02252) -->
 
 ## Leaderboard
 
